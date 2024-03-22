@@ -1,0 +1,3 @@
+Exercicio 1:
+No fluxograma da esquerda o loop faz com que o codigo venha antes do print fazendo com que o codigo no terminal mostre os números de 0 a 4.
+Já no fluxograma da direita o loop faz com que a conta de soma venha antes do print fazendo com que o codigo no terminal mostre os números de 1 a 5.
