@@ -3,7 +3,7 @@ contPar = int(0)
 contImpar = int(0) 
 somaPar = int(0)
 qtdImpar = int(0)
-while contPar < 5 and contImpar < 30:
+while contPar < 5 and contImpar <= 30:
             num = int(input("\nInsira um número inteiro positivo: "))
             if num < 0:
                    print(f"\nValor inválido, insira um número inteiro positivo !\n\n" + ("-"*60))
